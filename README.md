@@ -5,6 +5,7 @@ multi brute force facebook
 <img src="https://github.com/DullahKunZ/MBF/blob/main/img_dullah/Screenshot_2021-05-03-17-09-42.png">
 
 # install bahan dulu
+```
  MBF NIH...😾
 
 pkg update && pkg upgrade
@@ -21,3 +22,4 @@ pip2 install mechanize
 pip2 install requests
 cd MBF
 python2 mbf_v1
+```
