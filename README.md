@@ -6,7 +6,7 @@ multi brute force facebook
 
 # install bahan dulu
 ```
- MBF NIH...😾
+ MBF 
 
 pkg update && pkg upgrade
 pkg install git curl python
