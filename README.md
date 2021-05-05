@@ -1,5 +1,9 @@
 # MBF
 multi brute force facebook
+* no login
+* login with cookies
+* login with token
+
 
 # scrin
 <img src="https://github.com/DullahKunZ/MBF/blob/main/img_dullah/Screenshot_2021-05-03-17-09-42.png">
